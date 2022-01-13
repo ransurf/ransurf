@@ -2,7 +2,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ransurf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 🔭 I’m currently working on:
-- ObsidianMD x Habitica API
+- Finishing the FCC Responsive Web Design Certificate
 
 🌱 I’m currently learning:
 - JS (React, TypeScript)
