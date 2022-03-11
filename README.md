@@ -2,11 +2,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ransurf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 🔭 I’m currently working on:
-- Finishing the FCC Responsive Web Design Certificate
+- My personal portfolio :)
 
 🌱 I’m currently learning:
 - JS (React, TypeScript)
-- CSS
+- CSS/SCSS
 - C
 
 📫 How to reach me:
