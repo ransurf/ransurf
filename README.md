@@ -1,6 +1,8 @@
  [![Ransurf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ransurf&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ransurf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## [Personal Website](https://www.johnmavrick.tech/)
+
 🔭 I’m currently working on:
 - My personal portfolio :)
 
