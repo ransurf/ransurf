@@ -5,11 +5,11 @@
 
 🔭 I’m currently working on:
 - My personal portfolio :)
+- Random side projects to try out the things I'm learning
 
 🌱 I’m currently learning:
-- JS (React, TypeScript)
+- Web development using React/Next (TypeScript), and Redux
 - CSS/SCSS
-- C
 
 📫 How to reach me:
 - [Youtube Channel](https://www.youtube.com/channel/UC_nJ4PiyzE26LX-FmrnvCfQ)
